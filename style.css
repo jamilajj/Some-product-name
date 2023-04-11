@@ -1,0 +1,9 @@
+.text{
+    width: 300px;
+text-align: center;
+justify-content: center;
+} 
+a{
+    user-select: none;
+    
+}
